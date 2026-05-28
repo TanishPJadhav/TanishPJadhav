@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Tanish%20P%20Jadhav&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=18&duration=4500&pause=1200&color=00FF41&center=true&vCenter=true&width=1800&lines=Build+like+the+impossible+is+temporary%2C+because+every+giant+app%2C+every+breakthrough+model%2C+and+every+legendary+product+started+as+one+stubborn+line+of+code." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=18&duration=4500&pause=2000&color=00FF41&center=true&vCenter=true&width=1800&lines=Build+like+the+impossible+is+temporary%2C+because+every+giant+app%2C+every+breakthrough+model%2C+and+every+legendary+product+started+as+one+stubborn+line+of+code." alt="Typing introduction" />
 </p>
 
 <p align="center">
